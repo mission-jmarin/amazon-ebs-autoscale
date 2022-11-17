@@ -90,7 +90,7 @@ Options
 EOF
 )
 
-MOUNTPOINT=/scratch
+MOUNTPOINT=/data
 # defaults to set into ebs-autoscale.json
 SIZE=10
 VOLUMETYPE=gp3
